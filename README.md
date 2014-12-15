@@ -1,4 +1,4 @@
-starred_importer
-================
+Google Reader Starred Items Importer
+=
 
-Import Google Reader starred items to MongoDB
+Put starred.json into resources/ folder. All the items will be imported to MongoDB.
